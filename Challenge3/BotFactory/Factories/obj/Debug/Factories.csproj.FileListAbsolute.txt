@@ -1,0 +1,18 @@
+D:\Repos\BootCampC17\BotFactory\Factories\bin\Debug\Factories.dll
+D:\Repos\BootCampC17\BotFactory\Factories\bin\Debug\Factories.pdb
+D:\Repos\BootCampC17\BotFactory\Factories\bin\Debug\Common.dll
+D:\Repos\BootCampC17\BotFactory\Factories\bin\Debug\Common.pdb
+D:\Repos\BootCampC17\BotFactory\Factories\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+D:\Repos\BootCampC17\BotFactory\Factories\obj\Debug\Factories.dll
+D:\Repos\BootCampC17\BotFactory\Factories\obj\Debug\Factories.pdb
+D:\Repos\BootCampC17\BotFactory\Factories\bin\Debug\Models.dll
+D:\Repos\BootCampC17\BotFactory\Factories\bin\Debug\Models.pdb
+C:\Users\C17 Developer\Desktop\Idir\BotFactory\Factories\bin\Debug\Factories.dll
+C:\Users\C17 Developer\Desktop\Idir\BotFactory\Factories\bin\Debug\Factories.pdb
+C:\Users\C17 Developer\Desktop\Idir\BotFactory\Factories\bin\Debug\Common.dll
+C:\Users\C17 Developer\Desktop\Idir\BotFactory\Factories\bin\Debug\Models.dll
+C:\Users\C17 Developer\Desktop\Idir\BotFactory\Factories\bin\Debug\Common.pdb
+C:\Users\C17 Developer\Desktop\Idir\BotFactory\Factories\bin\Debug\Models.pdb
+C:\Users\C17 Developer\Desktop\Idir\BotFactory\Factories\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+C:\Users\C17 Developer\Desktop\Idir\BotFactory\Factories\obj\Debug\Factories.dll
+C:\Users\C17 Developer\Desktop\Idir\BotFactory\Factories\obj\Debug\Factories.pdb
